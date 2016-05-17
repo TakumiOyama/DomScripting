@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+*{
+	margin:0;
+	padding:0;
+	font-size:100%;
+}
+
+body{
+	background-color:#f1f1f1;
+	font-family:sans-serif;
+}
+
+#whatsnew{
+	background-color:#fff;
+	border:1px solid #ddd;
+	width:460px;
+	margin:62px auto;
+	padding-bottom:34px;
+}
+
+#whatsnew h1{
+	margin:31px auto 24px;
+	width:398px;
+}
+
+#whatsnew .section{
+	background-color:#f1f1f1;
+	width:398px;
+	margin:0 auto;
+	padding: 10px;
+	font-size:12px;
+	line-height:1.5;
+}
